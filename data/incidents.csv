@@ -1,0 +1,5 @@
+incident_id,latitude,longitude,date,waste_type,quantity_tonnes,is_synthetic,ground_truth_company,description
+PAT-SYN-001,17.53240,78.18010,2026-09-14,spent_solvent_containers,2.5,true,C001,Synthetic demonstration incident located near the real Pashamylaram facility cluster; not a real allegation.
+PAT-SYN-002,17.53400,78.17960,2026-09-22,acidic_chemical_residue,1.8,true,C005,Synthetic demonstration incident for testing chemical-waste compatibility and spatial ranking; not a real allegation.
+PAT-SYN-003,17.53120,78.18070,2026-09-30,pharmaceutical_sludge,3.2,true,C002,Synthetic demonstration incident for testing pharmaceutical-waste source ranking; not a real allegation.
+PAT-SYN-004,17.53530,78.17920,2026-10-02,organic_chemical_residue,1.2,true,C006,Synthetic demonstration incident for testing organic-chemical source ranking; not a real allegation.

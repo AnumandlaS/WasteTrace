@@ -1,0 +1,27 @@
+company_id,waste_type,waste_description,authorized_quantity,source_document
+C001,spent_solvents,Spent organic solvents from API synthesis and purification processes,120,Environmental Clearance Record – Arene Life Sciences
+C001,chemical_residues,Chemical residues from intermediate and final product manufacturing,,Environmental Clearance Record – Arene Life Sciences
+C001,contaminated_containers,Drums and containers contaminated with solvents and chemical intermediates,,Environmental Clearance Record – Arene Life Sciences
+C001,sludge,ETP sludge and process sludge from pharmaceutical manufacturing,,Environmental Clearance Record – Arene Life Sciences
+C002,spent_solvents,Spent solvents from API synthesis and organic chemistry operations,200,Environmental Clearance / iPASS Record – Suven Pharmaceuticals
+C002,chemical_sludge,Chemical sludge from effluent treatment and process waste streams,,Environmental Clearance / iPASS Record – Suven Pharmaceuticals
+C002,organic_residues,Organic residues from synthetic chemistry processes,,Environmental Clearance / iPASS Record – Suven Pharmaceuticals
+C002,contaminated_containers,Packaging and containers contaminated with pharmaceutical chemicals,,Environmental Clearance / iPASS Record – Suven Pharmaceuticals
+C003,spent_solvents,Spent solvents from multi-product API manufacturing (Nilotinib; Sofosbuvir; etc.),150,Environmental Clearance Record – Sanozen Pharma
+C003,organic_residues,Organic chemical residues from synthesis of oncology and antiviral APIs,,Environmental Clearance Record – Sanozen Pharma
+C003,chemical_sludge,Process and ETP sludge from pharmaceutical operations,,Environmental Clearance Record – Sanozen Pharma
+C003,contaminated_containers,Contaminated drums and IBCs from API production,,Environmental Clearance Record – Sanozen Pharma
+C004,spent_solvents,Spent solvents from pharmaceutical and speciality chemical manufacturing,,OCMMS/iPASS Record – Valentis Laboratories
+C004,chemical_residues,Chemical residues from API intermediate synthesis,,OCMMS/iPASS Record – Valentis Laboratories
+C004,contaminated_containers,Contaminated packaging from pharmaceutical operations,,OCMMS/iPASS Record – Valentis Laboratories
+C005,acid_residues,Acid residues from basic chemical and electrochemical manufacturing,,iPASS Record – Chromo Laboratories
+C005,chemical_waste,Chemical waste from acid production processes,,iPASS Record – Chromo Laboratories
+C005,contaminated_containers,Contaminated containers from chemical handling and storage,,iPASS Record – Chromo Laboratories
+C006,chemical_residues,Chemical residues from organic chemicals manufacturing,,OCMMS/iPASS Record – ITW India (Chemin)
+C006,hazardous_process_waste,Hazardous process waste from organic synthesis operations,,OCMMS Hazardous Waste Authorization – ITW India
+C007,chemical_residues,Chemical residues from pharmaceutical product manufacturing,,iPASS Record – Gland Pharma
+C007,solvent_waste,Solvent waste from pharmaceutical manufacturing processes,,iPASS Record – Gland Pharma
+C007,contaminated_packaging,Contaminated packaging materials from production lines,,iPASS Record – Gland Pharma
+C008,chemical_residues,Chemical residues from pharmaceutical manufacturing,,iPASS Record – MSN Laboratories
+C008,solvent_waste,Solvent waste from pharmaceutical processes,,iPASS Record – MSN Laboratories
+C008,sludge,ETP and process sludge from biotech/pharmaceutical operations,,iPASS Record – MSN Laboratories
